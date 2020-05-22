@@ -1,4 +1,4 @@
-const filepath = '../data/map-data.json'
+const filepath = './data/map-data.json'
 
 const svg = d3.select("#map").append("svg")
 const mapCtr = document.getElementById("map-ctr")
