@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "ranges": {
+      "x": [
+        0,
+        2669
+      ],
+      "y": [
+        0,
+        1975
+      ]
+    }
+  },
+  "data": [
+    {
+      "name": "brycesquarters-bedroom",
+      "coordinates": [
+        343,
+        1232
+      ]
+    },
+    {
+      "name": "brycesquarters-guestroom",
+      "coordinates": [
+        474,
+        1402
+      ]
+    },
+    {
+      "name": "brycesquarters-hall",
+      "coordinates": [
+        483,
+        1252
+      ]
+    },
+    {
+      "name": "brycesquarters-office",
+      "coordinates": [
+        477,
+        1139
+      ]
+    },
+    {
+      "name": "brycesquarters-sittingarea",
+      "coordinates": [
+        605,
+        1304
+      ]
+    },
+    {
+      "name": "dininghall-back-souptable",
+      "coordinates": [
+        1207,
+        1763
+      ]
+    },
+    {
+      "name": "dininghall-backmiddle",
+      "coordinates": [
+        1082,
+        1763
+      ]
+    },
+    {
+      "name": "dininghall-fridge",
+      "coordinates": [
+        964,
+        1763
+      ]
+    },
+    {
+      "name": "dininghall-front",
+      "coordinates": [
+        1082,
+        1490
+      ]
+    },
+    {
+      "name": "dininghall-tableleft",
+      "coordinates": [
+        1207,
+        1621
+      ]
+    },
+    {
+      "name": "dininghall-tablemiddle",
+      "coordinates": [
+        1082,
+        1621
+      ]
+    },
+    {
+      "name": "dininghall-tableright",
+      "coordinates": [
+        964,
+        1621
+      ]
+    },
+    {
+      "name": "infirmary-bathroom",
+      "coordinates": [
+        1727,
+        580
+      ]
+    },
+    {
+      "name": "infirmary-empty-bed",
+      "coordinates": [
+        1499,
+        607
+      ]
+    },
+    {
+      "name": "infirmary-far-left",
+      "coordinates": [
+        1499,
+        539
+      ]
+    },
+    {
+      "name": "infirmary-far-right",
+      "coordinates": [
+        1619,
+        539
+      ]
+    },
+    {
+      "name": "infirmary-kim",
+      "coordinates": [
+        1521,
+        716
+      ]
+    },
+    {
+      "name": "infirmary-medicine",
+      "coordinates": [
+        1680,
+        716
+      ]
+    },
+    {
+      "name": "infirmary-teresa",
+      "coordinates": [
+        1619,
+        607
+      ]
+    },
+    {
+      "name": "laboratory-back",
+      "coordinates": [
+        1797,
+        1462
+      ]
+    },
+    {
+      "name": "laboratory-front",
+      "coordinates": [
+        1656,
+        1251
+      ]
+    },
+    {
+      "name": "laboratory-library",
+      "coordinates": [
+        1513,
+        1389
+      ]
+    },
+    {
+      "name": "laboratory-midright",
+      "coordinates": [
+        1630,
+        1394
+      ]
+    },
+    {
+      "name": "laboratory-sinks",
+      "coordinates": [
+        1810,
+        1286
+      ]
+    },
+    {
+      "name": "livingquarters-fordsroom",
+      "coordinates": [
+        756,
+        617
+      ]
+    },
+    {
+      "name": "livingquarters-hall",
+      "coordinates": [
+        864,
+        698
+      ]
+    },
+    {
+      "name": "livingquarters-robertsroom",
+      "coordinates": [
+        963,
+        762
+      ]
+    },
+    {
+      "name": "livingquarters-sittingarea",
+      "coordinates": [
+        756,
+        762
+      ]
+    },
+    {
+      "name": "outdoors-2a",
+      "coordinates": [
+        859,
+        919
+      ]
+    },
+    {
+      "name": "outdoors-2b",
+      "coordinates": [
+        859,
+        1125
+      ]
+    },
+    {
+      "name": "outdoors-3a",
+      "coordinates": [
+        1221,
+        814
+      ]
+    },
+    {
+      "name": "outdoors-3b",
+      "coordinates": [
+        1221,
+        1205
+      ]
+    },
+    {
+      "name": "outdoors-4b",
+      "coordinates": [
+        1607,
+        953
+      ]
+    },
+    {
+      "name": "outdoors-5a",
+      "coordinates": [
+        2024,
+        616
+      ]
+    },
+    {
+      "name": "outdoors-5b",
+      "coordinates": [
+        2115,
+        1274
+      ]
+    },
+    {
+      "name": "outdoors-6a",
+      "coordinates": [
+        2450,
+        773
+      ]
+    },
+    {
+      "name": "outdoors-6b",
+      "coordinates": [
+        2450,
+        1324
+      ]
+    },
+    {
+      "name": "outdoors-waterfallarea",
+      "coordinates": [
+        514,
+        715
+      ]
+    }
+  ]
+}
