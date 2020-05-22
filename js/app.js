@@ -26,8 +26,8 @@ d3.json(filepath)
       .domain([metadata.ranges.y[0],metadata.ranges.y[1]])
       .range([0, graphHeight])
 
-    svg.append("g")
-      .attr("id", "locations")
+    svg.append("g").attr("id", "locations")
+    svg.append("g").attr("id", "labels")
 
     svg
       .select("#locations")
@@ -44,4 +44,19 @@ d3.json(filepath)
         })
         .attr("r", 5)
         .attr("fill", 'green')
+
+    svg
+      .select('#labels')
+      .selectAll('label')
+      .data(data)
+      .enter()
+      .append('text')
+      .attr('class', 'label')
+      .attr("dx", function(d) {
+        return xScale(d.coordinates[0])
+      })
+      .attr("dy", function(d) {
+        return yScale(d.coordinates[1]-20)
+      })
+      .text(function(d){return d.name})
   })

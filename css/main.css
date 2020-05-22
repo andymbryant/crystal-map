@@ -15,3 +15,8 @@ html, body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.label {
+  /* transform: rotate(-20deg); */
+  /* transform-origin: center center; */
+}
