@@ -1,1 +1,1 @@
-Link: https://andymbryant.github.io/crystal-map/
+Rough visualization of existing Crystal Island materials.
